@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.macedoniaondemand-proxy" name="Macedonia On Demand - with Proxy" version="3.0" provider-name="Viktor Mladenovski">
+<addon id="plugin.video.macedoniaondemand-proxy" name="Macedonia On Demand - with Proxy" version="3.1" provider-name="Viktor Mladenovski">
   <requires>
   </requires>
   <extension point="xbmc.python.pluginsource" library="addon.py">
@@ -15,7 +15,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.macedoniaondemand" name="Macedonia On Demand" version="2.3" provider-name="Viktor Mladenovski">
+<addon id="plugin.video.macedoniaondemand" name="Macedonia On Demand" version="2.4" provider-name="Viktor Mladenovski">
   <requires>
   </requires>
   <extension point="xbmc.python.pluginsource" library="addon.py">
